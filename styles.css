@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+body{
+    font-family: 'Cabin', sans-serif;
+    font-size: small
+}
+
+#header{
+    background-color: rgb(6, 10, 33);
+    height: 35px;
+}
+
+.img2{
+    justify-content: space-between;
+}
+
+img{
+    height: 40px;
+}
+
+.image4{
+    height: 20px;
+}
+
+.image5{
+    height: 20px;
+}
+
+.background{
+    height: 525px;
+}
+
+.img2{
+    background-color: rgb(40, 47, 67);
+    height: 35px;
+    color: white;
+}
+
+.image2{
+    height: 15px;
+}
+
+.image3{
+    height: 30px;
+}
+
+button{
+    background-color: rgb(255, 242, 0);
+}
+
+.box1, .box2, .box3, .box4{
+    background-color:white;
+    width: 175px;
+}
